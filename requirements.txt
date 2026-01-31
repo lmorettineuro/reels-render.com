@@ -1,5 +1,7 @@
 flask
 gunicorn
 requests
-moviepy>=1.0.3
-imageio-ffmpeg>=0.4.2
+moviepy==1.0.3
+decorator==4.4.2
+imageio-ffmpeg
+imageio==2.4.1
