@@ -1,0 +1,5 @@
+flask
+moviepy
+gunicorn
+requests
+imageio==2.4.1
